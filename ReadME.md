@@ -1,4 +1,4 @@
-# 📊 Cointegrated Crypto Pairs Statistical Arbitrage
+# Cointegrated Crypto Pairs Statistical Arbitrage
 
 ## Overview
 
@@ -12,7 +12,7 @@ Instead of predicting price direction, the strategy exploits **temporary deviati
 
 ---
 
-## 📈 Problem Statement
+## Problem Statement
 
 Many crypto pairs have a **stable long-term relationship** (e.g., BTC–ETH). Short-term deviations in their relative price can be exploited:
 
@@ -24,7 +24,7 @@ Many crypto pairs have a **stable long-term relationship** (e.g., BTC–ETH). Sh
 
 ---
 
-## 🧠 Quantitative Approach
+## Quantitative Approach
 
 ### 1. Cointegration
 We model the relationship as:
@@ -64,5 +64,4 @@ z_t = \frac{\text{spread}_t - \mu}{\sigma}
 
 ---
 
-## 📂 Project Structure
 

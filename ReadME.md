@@ -70,3 +70,13 @@ Copy code
 - **Total PnL** = cumulative profit/loss  
 - **Sharpe Ratio** = risk-adjusted return  
 - **Max Drawdown** = largest peak-to-trough loss
+
+### Streamlit Frontend
+
+The Streamlit interface provides:
+- Dropdowns to select Crypto A and Crypto B
+- Adjustable rolling window size
+- Date range selectors
+- Buttons for:
+  - Test Cointegration
+  - Run Backtest
